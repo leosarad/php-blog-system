@@ -1,4 +1,1 @@
-# php-blog-system
-Rename root folder to "blog"
-Run the file from migration folder to create all the tables required
-The blog system is ready in your PC.
+# php-blog-system, <a href="https://leo-php-blog-app.000webhostapp.com/posts/index.php">See Site</a>
